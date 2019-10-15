@@ -1,2 +1,2 @@
-ffdjslafdl
-ljw 520
+this is my adver project
+place go library;
